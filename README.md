@@ -250,15 +250,6 @@ const sairaj = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sairaj2033&theme=tokyonight"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-
-<p align="center">
-  <a href="https://github.com/Sairaj2033">
-    <img src="https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" alt="GitHub Trophies" />  </a>
-</p>
-
-
 ## 📋 GitHub Profile Summary
 
 <p align="center">
