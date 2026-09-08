@@ -57,72 +57,45 @@ const sairaj = {
 </table>
 
 <br>
+## 🧠 Featured Projects
+
+### 💰 [Finance Tracker](https://github.com/Pavan-makwana/Finance_Tracker_P-1)  
+**Tech:** Next.js, Prisma, Supabase  
+- Developed a secure full-stack finance tracker with authentication and CRUD features.  
+- Integrated Supabase Auth + Prisma ORM for seamless data management.  
+- Optimized performance and UI for mobile-first experience.  
+
+### 📈 [Zerodha Clone](https://github.com/Pavan-makwana/Zerodha-Clone-pa1)  
+**Tech:** React.js, Node.js, MongoDB  
+- Built a live stock trading simulation with real-time data visualization.  
+- Implemented charts and trading API behavior for interactive learning.  
+
+##  Client Projects  
+### 🌐 [DriveSync.tech](https://drivesync.tech/)  
+**Tech:** Using Scratch   
+- Freelance project built for scalability and SEO performance.  
+- Integrated client feedback system for smooth collaboration.  
+
+### 🥛 [Geetanjali Dairy](https://geetanjalidairy.com/)  
+- Freelance  website with modern responsive UI.  
+- Designed for optimized load times and mobile performance.
+-  
+### 🍽️ [SoulRestoCafe](https://soulrestrocafe.com/)
+- Restaurant-focused modern website with elegant UI & smooth user experience.
+- Built with responsive design, optimized images, and clear navigation for customers.
+- Freelance website with modern responsive UI.  
+- Designed for optimized load times and mobile performance with Menu Animation on Menu Page.  
+
+---
 
 
-<h2>🛰️ Hawks Community</h2>
+## 📜 Certifications  
 
+- 📘 *DSA in Java* – Apna College  
+- 🧩 *Full Stack Developer Course* – Apna College  
+- 🌐 *College Website Contributor Certificate*  
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/20260906_163221.png"/>
-</p>
-
-
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/Hawks_poster_update1.png" width="100%"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-<pre><code>
- 
-Hawks Community is a developer-led technology community built for
-developers, designers, builders, and technology enthusiasts.
-
-We bring people together to learn, collaborate, build meaningful projects,
-and discover new opportunities across the technology ecosystem.
-
-With a growing network of engineers, designers, and Microsoft,Google & other
-Ambassadors, Hawks creates a space for knowledge sharing, technical
-discussions, open-source collaboration, events, and updates related to
-opportunities & resources that elevate your skills.
-
-
-  
-</code></pre>
-<br/>
-<br/>
-</td>
-
-</tr>
-</table>
-
-
-<h2 align="center">Onboard the Hawks Community</h2>
-
-<p align="center">
-  <a href="https://chat.whatsapp.com/F5jCMAlocGf6u67Oc2od2u">
-    <img src="https://img.shields.io/badge/WHATSAPP-JOIN%20HAWKS-1C1D21?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="65" width="25%" alt="Join Hawks on WhatsApp"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/nR3dfezRSe">
-    <img src="https://img.shields.io/badge/DISCORD-JOIN%20HAWKS-1C1D21?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" height="65" width="25% alt="Join Hawks on Discord"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/hawks-community">
-    <img src="https://img.shields.io/badge/LINKEDIN-JOIN%20HAWKS-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="65" width="25% alt="Join Hawks on LinkedIn"/>
-  </a>
-</p>
-
-<br>
-
-
-
+---
 
 
 
