@@ -271,9 +271,6 @@ const sairaj = {
   ⭐ <b>Connect with <a href="https://github.com/Sairaj2033">Sairaj Patil</a></b> ⭐
 </p>
 
-<p align="center">
-  <i>"Turning ideas into intelligent solutions, one commit at a time!"</i> 🚀
-</p>
 
 ---
 
