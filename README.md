@@ -258,24 +258,6 @@ const sairaj = {
     <img src="https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" alt="GitHub Trophies" />  </a>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyo-night&hide_border=true&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&color=00E5FF&title_color=00E5FF&bg_color=1A1B27"/>
-</p>
-
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
-
-
 
 ## 📋 GitHub Profile Summary
 
@@ -309,19 +291,6 @@ const sairaj = {
   <img src="https://camo.githubusercontent.com/6b9c2a342f778248d0e947a1a4e7d332e59dadc140de25650cd23d2dd45a86f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="52" valign="middle"/>
   &nbsp;
   <i><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you! 😊<b></i>
-</p>
-
-
-
-
-
-
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=D1D5DB"
-  />
 </p>
 
 
