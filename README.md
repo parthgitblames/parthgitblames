@@ -2,13 +2,11 @@
 
 <img width="100%" src="/assets/Linkdedin_banner-update2.png"/>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3500&pause=900&color=f5f3f4&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Graphic+Designer;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New;" />
 </p>
 
-
-## 🎯 About Me
+🎯 About Me
 
 <table>
 <tr>
@@ -16,8 +14,7 @@
 
 
 
-```typescript
-const sairaj = {
+const parth = {
     role: "AI & Data Science Undergrad'28",
     location: "India 🇮🇳",
 
@@ -40,7 +37,6 @@ const sairaj = {
         database: ["MongoDB", "MySQL"]
     }
 };
-```
 
 <br>
 
@@ -59,52 +55,69 @@ const sairaj = {
 <br>
 ## 🧠 Featured Projects
 
-### 💰 [Finance Tracker](https://github.com/Pavan-makwana/Finance_Tracker_P-1)  
-**Tech:** Next.js, Prisma, Supabase  
-- Developed a secure full-stack finance tracker with authentication and CRUD features.  
-- Integrated Supabase Auth + Prisma ORM for seamless data management.  
-- Optimized performance and UI for mobile-first experience.  
+💰 Finance Tracker
 
-### 📈 [Zerodha Clone](https://github.com/Pavan-makwana/Zerodha-Clone-pa1)  
-**Tech:** React.js, Node.js, MongoDB  
-- Built a live stock trading simulation with real-time data visualization.  
-- Implemented charts and trading API behavior for interactive learning.  
+Tech: Next.js, Prisma, Supabase
 
-##  Client Projects  
-### 🌐 [DriveSync.tech](https://drivesync.tech/)  
-**Tech:** Using Scratch   
-- Freelance project built for scalability and SEO performance.  
-- Integrated client feedback system for smooth collaboration.  
+Developed a secure full-stack finance tracker with authentication and CRUD features.
 
-### 🥛 [Geetanjali Dairy](https://geetanjalidairy.com/)  
-- Freelance  website with modern responsive UI.  
-- Designed for optimized load times and mobile performance.
--  
-### 🍽️ [SoulRestoCafe](https://soulrestrocafe.com/)
-- Restaurant-focused modern website with elegant UI & smooth user experience.
-- Built with responsive design, optimized images, and clear navigation for customers.
-- Freelance website with modern responsive UI.  
-- Designed for optimized load times and mobile performance with Menu Animation on Menu Page.  
+Integrated Supabase Auth + Prisma ORM for seamless data management.
 
----
+Optimized performance and UI for mobile-first experience.
 
+📈 Zerodha Clone
 
-## 📜 Certifications  
+Tech: React.js, Node.js, MongoDB
 
-- 📘 *DSA in Java* – Apna College  
-- 🧩 *Full Stack Developer Course* – Apna College  
-- 🌐 *College Website Contributor Certificate*  
+Built a live stock trading simulation with real-time data visualization.
 
----
+Implemented charts and trading API behavior for interactive learning.
+
+Client Projects
+
+🌐 DriveSync.tech
+
+Tech: Using Scratch
+
+Freelance project built for scalability and SEO performance.
+
+Integrated client feedback system for smooth collaboration.
+
+🥛 Geetanjali Dairy
+
+Freelance  website with modern responsive UI.
+
+Designed for optimized load times and mobile performance.
 
 
 
-## 🛠️ Tech Arsenal
+🍽️ SoulRestoCafe
+
+Restaurant-focused modern website with elegant UI & smooth user experience.
+
+Built with responsive design, optimized images, and clear navigation for customers.
+
+Freelance website with modern responsive UI.
+
+Designed for optimized load times and mobile performance with Menu Animation on Menu Page.
+
+📜 Certifications
+
+📘 DSA in Java – Apna College
+
+🧩 Full Stack Developer Course – Apna College
+
+🌐 College Website Contributor Certificate
+
+
+
+🛠️ Tech Arsenal
 
 <table align="center">
 <tr>
 
 <!-- LEFT COLUMN -->
+
 <td width="50%" align="center">
 
 <h3>🎨 Frontend & UI</h3>
@@ -139,8 +152,8 @@ const sairaj = {
 
 </td>
 
-
 <!-- RIGHT COLUMN -->
+
 <td width="50%" align="center">
 
 <h3>☁️ Cloud & DevOps</h3>
@@ -153,7 +166,6 @@ const sairaj = {
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 
 <br><br>
-
 
 <h3>🎨 Design & Creative</h3>
 
@@ -197,18 +209,18 @@ const sairaj = {
 
 <br/>
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
+  <a href="https://www.linkedin.com/in/parth-patil-631701311">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="170" height="30" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://x.com/sairaj__patil">
+  <a href="https://x.com/parth__patil">
     <img src="https://img.shields.io/badge/X(TWITTER)-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" width="170" height="30" alt="X" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/sairaj_patill">
+  <a href="https://www.instagram.com/parth_patill">
     <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-1C1D21?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" width="170" height="30" alt="Instagram" />
   </a>
   &nbsp;
@@ -216,64 +228,59 @@ const sairaj = {
     <img src="https://img.shields.io/badge/DISCORD-JOIN-1C1D21?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" width="170" height="30" alt="Discord" />
   </a>
   &nbsp;
-  <a href="mailto:sairajpatil035@gmail.com">
+  <a href="mailto:parthpatil035@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EMAIL-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="170" height="30" alt="Gmail" />
   </a>
 </p>
 
 <br>
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sairaj2033&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthgitblames&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=parthgitblames&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthgitblames&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <!---->
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sairaj2033&theme=tokyonight"/>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthgitblames&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sairaj2033&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sairaj2033&theme=tokyonight&utcOffset=5.5"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthgitblames&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthgitblames&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sairaj2033&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sairaj2033&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthgitblames&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthgitblames&theme=tokyonight"/>
 </p>
 
-## 📋 GitHub Profile Summary
+📋 GitHub Profile Summary
 
 <p align="center">
-  <img height="32" src="https://komarev.com/ghpvc/?username=Sairaj2033&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
+  <img height="32" src="https://komarev.com/ghpvc/?username=parthgitblames&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
 </p>
 
 <br>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/Sairaj2033"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/parthgitblames"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
+  <img src="https://img.shields.io/github/followers/parthgitblames?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
+  <img src="https://img.shields.io/github/stars/parthgitblames?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
 </p>
 
 <p align="center">
-  ⭐ <b>Connect with <a href="https://github.com/Sairaj2033">Sairaj Patil</a></b> ⭐
+  ⭐ <b>Connect with <a href="https://github.com/parthgitblames">Parth Gohil</a></b> ⭐
 </p>
-
-
----
-
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/6b9c2a342f778248d0e947a1a4e7d332e59dadc140de25650cd23d2dd45a86f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="52" valign="middle"/>
@@ -283,7 +290,6 @@ const sairaj = {
 
 
 
-
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/Open to Collaboration_20260712_014150_0000.png"/>
+  <img width="100%" src="https://raw.githubusercontent.com/parthgitblames/parthgitblames/main/assets/Open to Collaboration_20260712_014150_0000.png"/>
 </p>
