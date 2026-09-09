@@ -286,5 +286,6 @@ Designed for optimized load times and mobile performance with Menu Animation on 
 
 
 <p align="center">
-  <img width="100%" src=""/assets/Footer.jpeg"/>
+  <img width="100%" src="/assets/Footer.jpeg"/>
+    
 </p>
