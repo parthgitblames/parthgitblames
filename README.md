@@ -1,11 +1,6 @@
 
 
 <img width="100%" src="/assets/Banner.png"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3500&pause=900&color=f5f3f4&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Graphic+Designer;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New;" />
-</p>
-
 🎯 About Me
 
 <table>
@@ -46,7 +41,7 @@ const parth = {
 
 <td width="42%" align="center">
 
-<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360"/>
+<img src="/assets/gif.gif"/>
 
 </td>
 </tr>
@@ -291,5 +286,5 @@ Designed for optimized load times and mobile performance with Menu Animation on 
 
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/parthgitblames/parthgitblames/main/assets/Open to Collaboration_20260712_014150_0000.png"/>
+  <img width="100%" src=""/assets/Footer.jpeg"/>
 </p>
