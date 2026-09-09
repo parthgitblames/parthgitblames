@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="/assets/Linkdedin_banner-update2.png"/>
+<img width="100%" src="/assets/Banner.png"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=24&duration=3500&pause=900&color=f5f3f4&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Graphic+Designer;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New;" />
