@@ -4,8 +4,7 @@
 
 </div>
 
-<h1 align="center">Hey, I'm Parth 👋</h1>
-<p align="center">AI & Data Science Undergrad'28 · Building AI/ML systems & full-stack products</p>
+<p align="center">AI & Data Science · Building AI/ML systems & full-stack products</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-patil-631701311">
