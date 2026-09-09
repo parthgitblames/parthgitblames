@@ -100,19 +100,19 @@ const parth = {
 <tr>
 <td width="33%" valign="top">
 
-**🌐 DriveSync.tech**
+**🌐 D**
 Built for scalability & SEO performance, with a client feedback loop for smooth collaboration.
 
 </td>
 <td width="33%" valign="top">
 
-**🥛 Geetanjali Dairy**
+**🥛 G**
 Modern, responsive UI optimized for fast load times and mobile performance.
 
 </td>
 <td width="33%" valign="top">
 
-**🍽️ SoulResto Cafe**
+**🍽️ S**
 Restaurant site with an elegant UI, optimized images, clear navigation, and an animated menu page.
 
 </td>
@@ -123,9 +123,9 @@ Restaurant site with an elegant UI, optimized images, clear navigation, and an a
 
 ## 📜 Certifications
 
-- 📘 DSA in Java — Apna College
-- 🧩 Full Stack Developer Course — Apna College
-- 🌐 College Website Contributor Certificate
+- 📘 D
+- 🧩 F
+- 🌐 C
 
 ---
 
