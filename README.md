@@ -74,7 +74,7 @@ const parth = {
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Finance Tracker
+### 💰 F
 **Tech:** Next.js · Prisma · Supabase
 
 - Secure full-stack finance tracker with authentication and CRUD features
@@ -84,7 +84,7 @@ const parth = {
 </td>
 <td width="50%" valign="top">
 
-### 📈 Zerodha Clone
+### 📈 Z
 **Tech:** React.js · Node.js · MongoDB
 
 - Live stock-trading simulation with real-time data visualization
