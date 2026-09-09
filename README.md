@@ -246,7 +246,7 @@ Restaurant site with an elegant UI, optimized images, clear navigation, and an a
   <img src="https://img.shields.io/github/stars/parthgitblames?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
 </p>
 
-<p align="center">⭐ <b>Connect with <a href="https://github.com/parthgitblames">Parth Patil</a></b> ⭐</p>
+<p align="center">⭐ <b>Connect with <a href="https://github.com/parthgitblames">Parth Gohil</a></b> ⭐</p>
 <p align="center"><i>I love meeting new people — say hi, I'll be happy to connect! 😊</i></p>
 
 <br>
