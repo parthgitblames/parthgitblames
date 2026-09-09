@@ -80,9 +80,6 @@ const parth = {
 
 ## 📜 Certifications
 
-- 📘 DSA in Java — Apna College
-- 🧩 Full Stack Developer Course — Apna College
-- 🌐 College Website Contributor Certificate
 
 ---
 
